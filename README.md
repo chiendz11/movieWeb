@@ -1,5 +1,5 @@
+## Mô hình quan hệ :
 ![sql eer](https://github.com/user-attachments/assets/840b6310-e55e-48ff-9f40-c619a35df5d6)
-![sql eer](https://github.com/user-attachments/assets/586ed587-6720-4f14-890b-e741b3768ae5)
 # Owl Carousel 2
 
 Touch enabled [jQuery](https://jquery.com/) plugin that lets you create a beautiful, responsive carousel slider. **To get started, check out https://owlcarousel2.github.io/OwlCarousel2/.**
