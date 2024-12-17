@@ -1,3 +1,13 @@
+## Cách đăng nhập admin
+Vào đường link https://phpmovie.infinityfreeapp.com/admin
+TK: chienqt
+MK: 123456 
+
+## Cách đăng nhập users
+Vào đường link https://phpmovie.infinityfreeapp.com/
+TK : chienqt 
+MK : 1234567
+
 ## Mô hình quan hệ :
 ![sql eer](https://github.com/user-attachments/assets/840b6310-e55e-48ff-9f40-c619a35df5d6)
 # Owl Carousel 2
