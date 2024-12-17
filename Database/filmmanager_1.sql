@@ -37,8 +37,8 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`username`, `password`) VALUES
-('quy', '123456'),
-('thanh', '123456');
+('chien', '123456'),
+('chienqt', '123456');
 
 -- --------------------------------------------------------
 
