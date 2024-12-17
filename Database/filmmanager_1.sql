@@ -37,7 +37,6 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`username`, `password`) VALUES
-('chien', '123456'),
 ('chienqt', '123456');
 
 -- --------------------------------------------------------
