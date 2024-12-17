@@ -319,8 +319,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`iduser`, `tenuser`, `username`, `password`) VALUES
-(1, 'Phùng Thanh', 'thanh185', '1234567'),
-(3, 'quy', 'quy', '123');
+(1, 'Bùi Chiến', 'chienqt', '1234567'),
+(3, 'Bùi Tuyên', 'tuyenqt', '123');
 
 --
 -- Chỉ mục cho các bảng đã đổ
