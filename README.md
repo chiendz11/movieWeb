@@ -1,5 +1,5 @@
 ## Cách đăng nhập admin
-Vào đường link https://phpmovie.infinityfreeapp.com/admin/
+Vào đường link https://phpmovie.infinityfreeapp.com/admin.php
 TK: chienqt
 MK: 123456 
 
